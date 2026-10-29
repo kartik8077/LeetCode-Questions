@@ -36,3 +36,11 @@ Each solution is organized according to the problem and/or topic, making it easi
 > **Learning → Solving → Improving → Repeating**
 
 This repository will continue to grow as I solve more problems and improve my understanding of Data Structures and Algorithms.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/kartik8077/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
