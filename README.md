@@ -43,6 +43,7 @@ This repository will continue to grow as I solve more problems and improve my un
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kartik8077/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kartik8077/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
@@ -52,4 +53,5 @@ This repository will continue to grow as I solve more problems and improve my un
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kartik8077/LeetCode-Questions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
