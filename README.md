@@ -42,6 +42,7 @@ This repository will continue to grow as I solve more problems and improve my un
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartik8077/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik8077/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ This repository will continue to grow as I solve more problems and improve my un
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartik8077/LeetCode-Questions/tree/master/0283-move-zeroes) |
 ## Hash Table
