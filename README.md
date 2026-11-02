@@ -43,6 +43,7 @@ This repository will continue to grow as I solve more problems and improve my un
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kartik8077/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartik8077/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik8077/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ This repository will continue to grow as I solve more problems and improve my un
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartik8077/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -73,5 +75,18 @@ This repository will continue to grow as I solve more problems and improve my un
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartik8077/LeetCode-Questions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartik8077/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
